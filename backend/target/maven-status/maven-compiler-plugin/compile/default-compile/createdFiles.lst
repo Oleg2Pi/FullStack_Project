@@ -1,0 +1,5 @@
+by\polikarpov\backend\SpringConf.class
+by\polikarpov\backend\controller\TaskController.class
+by\polikarpov\backend\BackendApplication.class
+by\polikarpov\backend\model\Task.class
+by\polikarpov\backend\repository\TaskRepository.class
